@@ -1,0 +1,16 @@
+{
+  "id": 44136,
+  "identifier": "AB2/8ZW08O",
+  "latestVersion": {
+    "files": [
+      {        
+        "dataFile": {          
+          "checksum": {
+            "type": "MD5",
+            "value": "6b1b45695a7109ad45a6b5c5e50fd372"
+          }
+        }
+      }
+    ]
+  }
+}

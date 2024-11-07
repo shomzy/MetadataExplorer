@@ -1,0 +1,1158 @@
+{
+  "id": 44136,
+  "identifier": "AB2/8ZW08O",
+  "latestVersion": {
+    "id": 5495,
+    "metadataBlocks": {
+      "citation": {
+        "displayName": "Citation Metadata",
+        "fields": [
+          {
+            "typeName": "title",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "[Orthophotos, University of British Columbia Vancouver Campus], 2014"
+          },
+          {
+            "typeName": "author",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "authorName": {
+                  "typeName": "authorName",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "McElhanney Consulting Services Ltd."
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "subject",
+            "multiple": true,
+            "typeClass": "controlledVocabulary",
+            "value": [
+              "Other"
+            ]
+          },
+          
+          
+          
+          
+          {
+            "typeName": "dateOfCollection",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "dateOfCollectionStart": {
+                  "typeName": "dateOfCollectionStart",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "2014-05-07"
+                },
+                "dateOfCollectionEnd": {
+                  "typeName": "dateOfCollectionEnd",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "2014-05-07"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "kindOfData",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "Geospatial data"
+            ]
+          },
+          {
+            "typeName": "series",
+            "multiple": false,
+            "typeClass": "compound",
+            "value": {
+              "seriesName": {
+                "typeName": "seriesName",
+                "multiple": false,
+                "typeClass": "primitive",
+                "value": "UBCV CCP"
+              },
+              "seriesInformation": {
+                "typeName": "seriesInformation",
+                "multiple": false,
+                "typeClass": "primitive",
+                "value": "University of British Columbia Vancouver Campus. Campus and Community Planning data"
+              }
+            }
+          }
+        ]
+      },
+      "geospatial": {
+        "displayName": "Geospatial Metadata",
+        "fields": [
+          {
+            "typeName": "geographicCoverage",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "otherGeographicCoverage": {
+                  "typeName": "otherGeographicCoverage",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "University of British Columbia Vancouver Campus"
+                }
+              },
+              {
+                "country": {
+                  "typeName": "country",
+                  "multiple": false,
+                  "typeClass": "controlledVocabulary",
+                  "value": "Canada"
+                }
+              }
+            ]
+          },
+          {
+            "typeName": "geographicUnit",
+            "multiple": true,
+            "typeClass": "primitive",
+            "value": [
+              "University Campus"
+            ]
+          },
+          {
+            "typeName": "geographicBoundingBox",
+            "multiple": true,
+            "typeClass": "compound",
+            "value": [
+              {
+                "westLongitude": {
+                  "typeName": "westLongitude",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "-123.272"
+                },
+                "eastLongitude": {
+                  "typeName": "eastLongitude",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "-123.214"
+                },
+                "northLongitude": {
+                  "typeName": "northLongitude",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "49.284"
+                },
+                "southLongitude": {
+                  "typeName": "southLongitude",
+                  "multiple": false,
+                  "typeClass": "primitive",
+                  "value": "49.2301"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "socialscience": {
+        "displayName": "Social Science and Humanities Metadata",
+        "fields": [
+          {
+            "typeName": "datasetLevelErrorNotes",
+            "multiple": false,
+            "typeClass": "primitive",
+            "value": "Camera type: Vexcel ULTRACAM EAGLE<br />Focal Length: 80 mm<br />Raw pixel size: 9.5cm Ground Sample Distance<br />Reference datum: NAD 83<br />Projection: UTM Zone 10N/EPSG:3157<br />Tile size: 1km x 1km<br /> Previous handle https://hdl.handle.net/11272/HNJ3Z has been deprecated"
+          }
+        ]
+      }
+    },
+    "files": [
+      {
+        "description": "Index to tiles in Google Earth .kml format",
+        "label": "2014_UBC_Ortho_Index.kml",
+        "restricted": false,
+        "directoryLabel": "Documentation",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Documentation"
+        ],
+        "dataFile": {
+          "id": 48395,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/QLMHQT",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/QLMHQT",
+          "filename": "2014_UBC_Ortho_Index.kml",
+          "contentType": "application/vnd.google-earth.kml+xml",
+          "filesize": 15128,
+          "description": "Index to tiles in Google Earth .kml format",
+          "storageIdentifier": "file://17414cebf48-09c4f54fe1ae",
+          "rootDataFileId": -1,
+          "md5": "6b1b45695a7109ad45a6b5c5e50fd372",
+          "checksum": {
+            "type": "MD5",
+            "value": "6b1b45695a7109ad45a6b5c5e50fd372"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Index to map tiles (PDF)",
+        "label": "2014_UBC_Ortho_Index.pdf",
+        "restricted": false,
+        "directoryLabel": "Documentation",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Documentation"
+        ],
+        "dataFile": {
+          "id": 48393,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/JS2B6Q",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/JS2B6Q",
+          "filename": "2014_UBC_Ortho_Index.pdf",
+          "contentType": "application/pdf",
+          "filesize": 2207658,
+          "description": "Index to map tiles (PDF)",
+          "storageIdentifier": "file://17414ceb637-5b1fd6f0d28e",
+          "rootDataFileId": -1,
+          "md5": "a5b497edd2ffde65806f4b13ad66ac88",
+          "checksum": {
+            "type": "MD5",
+            "value": "a5b497edd2ffde65806f4b13ad66ac88"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Index to map tiles in ESRI shapefile format",
+        "label": "2014_UBC_Ortho_Index.zip",
+        "restricted": false,
+        "directoryLabel": "Documentation",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Documentation"
+        ],
+        "dataFile": {
+          "id": 48394,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/P74QKW",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/P74QKW",
+          "filename": "2014_UBC_Ortho_Index.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 2069,
+          "description": "Index to map tiles in ESRI shapefile format",
+          "storageIdentifier": "file://17414cebaff-fb47c73844b8",
+          "rootDataFileId": -1,
+          "md5": "5c236af638b6b2a9c7f5577e4da231b4",
+          "checksum": {
+            "type": "MD5",
+            "value": "5c236af638b6b2a9c7f5577e4da231b4"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 480E_5453N (TIFF format)",
+        "label": "480E_5453N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48381,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/PHYYDD",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/PHYYDD",
+          "filename": "480E_5453N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 148530044,
+          "description": "Tile 480E_5453N (TIFF format)",
+          "storageIdentifier": "file://17414cd2507-cc6093305ca7",
+          "rootDataFileId": -1,
+          "md5": "ebe8f4915db42ee6c652975a0f35ab91",
+          "checksum": {
+            "type": "MD5",
+            "value": "ebe8f4915db42ee6c652975a0f35ab91"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 480E_5454N (TIFF format)",
+        "label": "480E_5454N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48374,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/YXXUNG",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/YXXUNG",
+          "filename": "480E_5454N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 156800476,
+          "description": "Tile 480E_5454N (TIFF format)",
+          "storageIdentifier": "file://17414cc0874-c62d92594887",
+          "rootDataFileId": -1,
+          "md5": "e4e3e85a3305e4b531641bfd46160fba",
+          "checksum": {
+            "type": "MD5",
+            "value": "e4e3e85a3305e4b531641bfd46160fba"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 480E_5455N (TIFF format)",
+        "label": "480E_5455N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48367,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/U9AVPQ",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/U9AVPQ",
+          "filename": "480E_5455N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 163221534,
+          "description": "Tile 480E_5455N (TIFF format)",
+          "storageIdentifier": "file://17414cb2ef2-d509f5917a60",
+          "rootDataFileId": -1,
+          "md5": "761cf2e6644deb2fdb3acec27644bfc1",
+          "checksum": {
+            "type": "MD5",
+            "value": "761cf2e6644deb2fdb3acec27644bfc1"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 480E_5456N (TIFF format)",
+        "label": "480E_5456N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48390,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/WSXENA",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/WSXENA",
+          "filename": "480E_5456N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 166382808,
+          "description": "Tile 480E_5456N (TIFF format)",
+          "storageIdentifier": "file://17414ce731e-a7b9cf72651d",
+          "rootDataFileId": -1,
+          "md5": "f92735c51948e1a036f29b9da1045acc",
+          "checksum": {
+            "type": "MD5",
+            "value": "f92735c51948e1a036f29b9da1045acc"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 480E_5457N (TIFF format)",
+        "label": "480E_5457N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48377,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/EB8IR0",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/EB8IR0",
+          "filename": "480E_5457N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 153159896,
+          "description": "Tile 480E_5457N (TIFF format)",
+          "storageIdentifier": "file://17414cc8f29-117df816489d",
+          "rootDataFileId": -1,
+          "md5": "5ba1f270e9e09533f59720326bf4e924",
+          "checksum": {
+            "type": "MD5",
+            "value": "5ba1f270e9e09533f59720326bf4e924"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 480E_5458N (TIFF format)",
+        "label": "480E_5458N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48370,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/MBRWVH",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/MBRWVH",
+          "filename": "480E_5458N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 124533398,
+          "description": "Tile 480E_5458N (TIFF format)",
+          "storageIdentifier": "file://17414cb88ca-ef2f21230b59",
+          "rootDataFileId": -1,
+          "md5": "e64f32369d49e38a497461b3696c4784",
+          "checksum": {
+            "type": "MD5",
+            "value": "e64f32369d49e38a497461b3696c4784"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 481E_5453N (TIFF format)",
+        "label": "481E_5453N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48387,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/XCZEXF",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/XCZEXF",
+          "filename": "481E_5453N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 201399738,
+          "description": "Tile 481E_5453N (TIFF format)",
+          "storageIdentifier": "file://17414cdf0ac-740421b468cd",
+          "rootDataFileId": -1,
+          "md5": "2a3d18fd417d772b43e15fb6bee0a875",
+          "checksum": {
+            "type": "MD5",
+            "value": "2a3d18fd417d772b43e15fb6bee0a875"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 481E_5454N (TIFF format)",
+        "label": "481E_5454N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48364,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/K49IKG",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/K49IKG",
+          "filename": "481E_5454N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 223138752,
+          "description": "Tile 481E_5454N (TIFF format)",
+          "storageIdentifier": "file://17414cacded-7c75c701eddf",
+          "rootDataFileId": -1,
+          "md5": "8fb3e90feae2cd007933f1146eac9476",
+          "checksum": {
+            "type": "MD5",
+            "value": "8fb3e90feae2cd007933f1146eac9476"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 481E_5455N (TIFF format)",
+        "label": "481E_5455N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48386,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/PK9G6F",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/PK9G6F",
+          "filename": "481E_5455N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 243170559,
+          "description": "Tile 481E_5455N (TIFF format)",
+          "storageIdentifier": "file://17414cdcb00-ba822920d28a",
+          "rootDataFileId": -1,
+          "md5": "8c862e42156cff3c8cbd989e15a1f17b",
+          "checksum": {
+            "type": "MD5",
+            "value": "8c862e42156cff3c8cbd989e15a1f17b"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 481E_5456N (TIFF format)",
+        "label": "481E_5456N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48378,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/XIUGD8",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/XIUGD8",
+          "filename": "481E_5456N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 270482275,
+          "description": "Tile 481E_5456N (TIFF format)",
+          "storageIdentifier": "file://17414ccbb36-fcb9b8343327",
+          "rootDataFileId": -1,
+          "md5": "dcc31984a2ce3e11b9d14ba5318f9fd5",
+          "checksum": {
+            "type": "MD5",
+            "value": "dcc31984a2ce3e11b9d14ba5318f9fd5"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 481E_5457N (TIFF format)",
+        "label": "481E_5457N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48391,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/D0WBGM",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/D0WBGM",
+          "filename": "481E_5457N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 269337804,
+          "description": "Tile 481E_5457N (TIFF format)",
+          "storageIdentifier": "file://17414cea640-8a740d153384",
+          "rootDataFileId": -1,
+          "md5": "b60180db0c66a4e45fd288ff7aeafcd3",
+          "checksum": {
+            "type": "MD5",
+            "value": "b60180db0c66a4e45fd288ff7aeafcd3"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 481E_5458N (TIFF format)",
+        "label": "481E_5458N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48361,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/MBCVA0",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/MBCVA0",
+          "filename": "481E_5458N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 195190070,
+          "description": "Tile 481E_5458N (TIFF format)",
+          "storageIdentifier": "file://17414ca66b8-4b42e0d8edee",
+          "rootDataFileId": -1,
+          "md5": "f9514394387564235e64526b50d2beec",
+          "checksum": {
+            "type": "MD5",
+            "value": "f9514394387564235e64526b50d2beec"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 482E_5453N (TIFF format)",
+        "label": "482E_5453N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48380,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/NPGOKU",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/NPGOKU",
+          "filename": "482E_5453N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 216692814,
+          "description": "Tile 482E_5453N (TIFF format)",
+          "storageIdentifier": "file://17414cd0812-8393a9a763b9",
+          "rootDataFileId": -1,
+          "md5": "7d47f839795516b16596cb2a1bcda8a1",
+          "checksum": {
+            "type": "MD5",
+            "value": "7d47f839795516b16596cb2a1bcda8a1"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 482E_5454N (TIFF format)",
+        "label": "482E_5454N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48382,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/NPBF26",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/NPBF26",
+          "filename": "482E_5454N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 247647412,
+          "description": "Tile 482E_5454N (TIFF format)",
+          "storageIdentifier": "file://17414cd4d6f-116bd355ccbc",
+          "rootDataFileId": -1,
+          "md5": "c8ee7ff1d8a8e10c83a4e879e96e96de",
+          "checksum": {
+            "type": "MD5",
+            "value": "c8ee7ff1d8a8e10c83a4e879e96e96de"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 482E_5455N (TIFF format)",
+        "label": "482E_5455N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48362,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/LLCFSG",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/LLCFSG",
+          "filename": "482E_5455N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 268814556,
+          "description": "Tile 482E_5455N (TIFF format)",
+          "storageIdentifier": "file://17414ca9250-79ba2dd00970",
+          "rootDataFileId": -1,
+          "md5": "90bcf5b8f47799313e02d38e6290cf4a",
+          "checksum": {
+            "type": "MD5",
+            "value": "90bcf5b8f47799313e02d38e6290cf4a"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 482E_5456N (TIFF format)",
+        "label": "482E_5456N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48371,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/PFE8NZ",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/PFE8NZ",
+          "filename": "482E_5456N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 269988636,
+          "description": "Tile 482E_5456N (TIFF format)",
+          "storageIdentifier": "file://17414cbb3d6-4a3e9b73d9b0",
+          "rootDataFileId": -1,
+          "md5": "63c85a7d77d5260b25fe0a60c32d6eca",
+          "checksum": {
+            "type": "MD5",
+            "value": "63c85a7d77d5260b25fe0a60c32d6eca"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 482E_5457N (TIFF format)",
+        "label": "482E_5457N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48375,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/S0QPFH",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/S0QPFH",
+          "filename": "482E_5457N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 274982358,
+          "description": "Tile 482E_5457N (TIFF format)",
+          "storageIdentifier": "file://17414cc3341-d404581688e0",
+          "rootDataFileId": -1,
+          "md5": "e93fe4927e186d4a12e850371ab8dcc5",
+          "checksum": {
+            "type": "MD5",
+            "value": "e93fe4927e186d4a12e850371ab8dcc5"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 482E_5458N (TIFF format)",
+        "label": "482E_5458N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48388,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/G4LCXQ",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/G4LCXQ",
+          "filename": "482E_5458N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 232331911,
+          "description": "Tile 482E_5458N (TIFF format)",
+          "storageIdentifier": "file://17414ce18f9-6f61a89df4d0",
+          "rootDataFileId": -1,
+          "md5": "c8e66b4baba0ac73daa8e96fa026464d",
+          "checksum": {
+            "type": "MD5",
+            "value": "c8e66b4baba0ac73daa8e96fa026464d"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 483E_5453N (TIFF format)",
+        "label": "483E_5453N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48373,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/H0TD6S",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/H0TD6S",
+          "filename": "483E_5453N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 191488675,
+          "description": "Tile 483E_5453N (TIFF format)",
+          "storageIdentifier": "file://17414cbeb36-891ed40cd95e",
+          "rootDataFileId": -1,
+          "md5": "e71faeaad3f7e19b3e7e23e62d8e6e41",
+          "checksum": {
+            "type": "MD5",
+            "value": "e71faeaad3f7e19b3e7e23e62d8e6e41"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 483E_5454N (TIFF format)",
+        "label": "483E_5454N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48365,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/BOQR3P",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/BOQR3P",
+          "filename": "483E_5454N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 240238520,
+          "description": "Tile 483E_5454N (TIFF format)",
+          "storageIdentifier": "file://17414caf634-60ed991a33ca",
+          "rootDataFileId": -1,
+          "md5": "60cdc3e889c237843559a7edbb97e944",
+          "checksum": {
+            "type": "MD5",
+            "value": "60cdc3e889c237843559a7edbb97e944"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 483E_5455N (TIFF format)",
+        "label": "483E_5455N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48383,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/GNGLM7",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/GNGLM7",
+          "filename": "483E_5455N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 254307971,
+          "description": "Tile 483E_5455N (TIFF format)",
+          "storageIdentifier": "file://17414cd7840-ad8590269085",
+          "rootDataFileId": -1,
+          "md5": "efd9655adf8b8d0c7628e8c899cda29c",
+          "checksum": {
+            "type": "MD5",
+            "value": "efd9655adf8b8d0c7628e8c899cda29c"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 483E_5456N (TIFF format)",
+        "label": "483E_5456N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48369,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/DDWABE",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/DDWABE",
+          "filename": "483E_5456N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 253230396,
+          "description": "Tile 483E_5456N (TIFF format)",
+          "storageIdentifier": "file://17414cb6e36-f95397458c98",
+          "rootDataFileId": -1,
+          "md5": "4e213e1cc42cd3f770365d09a3319519",
+          "checksum": {
+            "type": "MD5",
+            "value": "4e213e1cc42cd3f770365d09a3319519"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 483E_5457N (TIFF format)",
+        "label": "483E_5457N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48389,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/F0JTSR",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/F0JTSR",
+          "filename": "483E_5457N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 264045600,
+          "description": "Tile 483E_5457N (TIFF format)",
+          "storageIdentifier": "file://17414ce4c9c-bac842b60a03",
+          "rootDataFileId": -1,
+          "md5": "604119b651890a458aa473d562ae2860",
+          "checksum": {
+            "type": "MD5",
+            "value": "604119b651890a458aa473d562ae2860"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 483E_5458N (TIFF format)",
+        "label": "483E_5458N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48379,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/O0RYOP",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/O0RYOP",
+          "filename": "483E_5458N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 224308992,
+          "description": "Tile 483E_5458N (TIFF format)",
+          "storageIdentifier": "file://17414cce2d5-d206bfb9ac79",
+          "rootDataFileId": -1,
+          "md5": "6571e81080370bf3956493825034e680",
+          "checksum": {
+            "type": "MD5",
+            "value": "6571e81080370bf3956493825034e680"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 484E_5453N (TIFF format)",
+        "label": "484E_5453N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48385,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/MVYZZR",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/MVYZZR",
+          "filename": "484E_5453N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 92526886,
+          "description": "Tile 484E_5453N (TIFF format)",
+          "storageIdentifier": "file://17414cda480-07b0f04fd960",
+          "rootDataFileId": -1,
+          "md5": "c12ab40654e8e779f78a1f1236c8a53c",
+          "checksum": {
+            "type": "MD5",
+            "value": "c12ab40654e8e779f78a1f1236c8a53c"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 484E_5454N (TIFF format)",
+        "label": "484E_5454N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48363,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/JKUDTB",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/JKUDTB",
+          "filename": "484E_5454N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 100220596,
+          "description": "Tile 484E_5454N (TIFF format)",
+          "storageIdentifier": "file://17414caaa17-8733d1455a68",
+          "rootDataFileId": -1,
+          "md5": "8695ccc3349212ef390f96b4fae0e2d2",
+          "checksum": {
+            "type": "MD5",
+            "value": "8695ccc3349212ef390f96b4fae0e2d2"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 484E_5455N (TIFF format)",
+        "label": "484E_5455N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48366,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/ZTRPHN",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/ZTRPHN",
+          "filename": "484E_5455N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 106645479,
+          "description": "Tile 484E_5455N (TIFF format)",
+          "storageIdentifier": "file://17414cb0eb4-636eab339659",
+          "rootDataFileId": -1,
+          "md5": "6309e375c9c400e2f880affbb62af0bc",
+          "checksum": {
+            "type": "MD5",
+            "value": "6309e375c9c400e2f880affbb62af0bc"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 484E_5456N (TIFF format)",
+        "label": "484E_5456N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48384,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/E1X5S1",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/E1X5S1",
+          "filename": "484E_5456N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 111474447,
+          "description": "Tile 484E_5456N (TIFF format)",
+          "storageIdentifier": "file://17414cd90a5-8743b6c81092",
+          "rootDataFileId": -1,
+          "md5": "d528c229fa63f57aa2079c0b99b44eba",
+          "checksum": {
+            "type": "MD5",
+            "value": "d528c229fa63f57aa2079c0b99b44eba"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 484E_5457N (TIFF format)",
+        "label": "484E_5457N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48368,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/SSW2SE",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/SSW2SE",
+          "filename": "484E_5457N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 120741737,
+          "description": "Tile 484E_5457N (TIFF format)",
+          "storageIdentifier": "file://17414cb468a-106a5b648250",
+          "rootDataFileId": -1,
+          "md5": "cd27523b81d0fd0ee93a52453e17ce02",
+          "checksum": {
+            "type": "MD5",
+            "value": "cd27523b81d0fd0ee93a52453e17ce02"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Tile 484E_5458N (TIFF format)",
+        "label": "484E_5458N.zip",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48372,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/H7O8KA",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/H7O8KA",
+          "filename": "484E_5458N.zip",
+          "contentType": "application/octet-stream",
+          "filesize": 86100820,
+          "description": "Tile 484E_5458N (TIFF format)",
+          "storageIdentifier": "file://17414cbcbf8-35acb982f0ae",
+          "rootDataFileId": -1,
+          "md5": "bdb014f7bcf098e2de243c0f6faad095",
+          "checksum": {
+            "type": "MD5",
+            "value": "bdb014f7bcf098e2de243c0f6faad095"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Entire area as one file (ERDAS Enhanced Compression Wavelet)",
+        "label": "UBC_2014_10cm.ecw",
+        "restricted": false,
+        "directoryLabel": "Data",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Data"
+        ],
+        "dataFile": {
+          "id": 48376,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/OLJ6GR",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/OLJ6GR",
+          "filename": "UBC_2014_10cm.ecw",
+          "contentType": "application/octet-stream",
+          "filesize": 353521176,
+          "description": "Entire area as one file (ERDAS Enhanced Compression Wavelet)",
+          "storageIdentifier": "file://17414cc6d8e-0ede774e178c",
+          "rootDataFileId": -1,
+          "md5": "2541e9099f274e84378ff379a727618d",
+          "checksum": {
+            "type": "MD5",
+            "value": "2541e9099f274e84378ff379a727618d"
+          },
+          "creationDate": "2020-08-21"
+        }
+      },
+      {
+        "description": "Metadata (plain text)",
+        "label": "UBC_2014_10cm_Metadata.txt",
+        "restricted": false,
+        "directoryLabel": "Documentation",
+        "version": 1,
+        "datasetVersionId": 5495,
+        "categories": [
+          "Documentation"
+        ],
+        "dataFile": {
+          "id": 48392,
+          "persistentId": "hdl:11272.1/AB2/8ZW08O/6AES9B",
+          "pidURL": "https://hdl.handle.net/11272.1/AB2/8ZW08O/6AES9B",
+          "filename": "UBC_2014_10cm_Metadata.txt",
+          "contentType": "text/plain",
+          "filesize": 493,
+          "description": "Metadata (plain text)",
+          "storageIdentifier": "file://17414ceb171-13e78457733c",
+          "rootDataFileId": -1,
+          "md5": "66a16b6a5b767641ab7b8732b15f4431",
+          "checksum": {
+            "type": "MD5",
+            "value": "66a16b6a5b767641ab7b8732b15f4431"
+          },
+          "creationDate": "2020-08-21"
+        }
+      }
+    ]
+  },
+  "combined_identifier": "44136"
+}

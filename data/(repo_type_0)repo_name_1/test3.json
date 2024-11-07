@@ -1,0 +1,22 @@
+{
+  "id": 44136,
+  "latestVersion": {
+		"id": 5495,
+		"metadataBlocks": {
+			  "citation": {
+				"displayName": "Citation Metadata",
+				"fields": [
+					  {
+						"typeName1": "title",
+						"multiple": false
+					  },
+					  {
+						"typeName": "title",
+						"multiple": true
+					  },
+					  ["as"]
+				]
+			  }
+		}    
+  }
+}
