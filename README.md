@@ -1,4 +1,3 @@
-"""
 # MetadataExplorer
 
 MetadataExplorer is a tool that aggregates paths and values from multiple JSON files across directories, providing a comprehensive view of all unique JSON paths and their values in a single output. This enables easy analysis and comparison of JSON data across different schemas and repositories. The tool produces two Excel files with aggregated JSON path data at varying levels of granularity.
@@ -51,8 +50,5 @@ Clicking the hyperlink in the `values_file_path` column opens another Excel file
 5. Value: The extracted value.
 
 This setup allows for an organized, in-depth view of JSON data, making it easy to analyze patterns across multiple data sources and schemas.
-"""
 
-
-
-Note: record names are assumed to be unique across all files and directories.
+Note: json file names are assumed to be unique across all files and directories.
