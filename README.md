@@ -52,3 +52,15 @@ Clicking the hyperlink in the `values_file_path` column opens another Excel file
 This setup allows for an organized, in-depth view of JSON data, making it easy to analyze patterns across multiple data sources and schemas.
 
 Note: json file names are assumed to be unique across all files and directories.
+
+
+## Dependencies  
+Install required packages:  
+```bash
+pip install pandas openpyxl pywin32
+```
+
+## VBA Access Issue  
+MetadataExplorer generates Excel reports using VBA. Windows may block programmatic access, causing the error:  
+**"Programmatic access to Visual Basic Project is not trusted."**  
+To resolve, follow [this guide](https://stackoverflow.com/questions/25638344/programmatic-access-to-visual-basic-project-is-not-trusted).
