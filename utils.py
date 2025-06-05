@@ -211,7 +211,7 @@ def is_value_missing(value):
 
 
 def flush_value_to_file(agg_leaf, delimiter):
-    if agg_leaf.get_leaves_len == 0:
+    if agg_leaf.get_leaves_len() == 0:
         return
 
     custom_string='<%%C%%>'
